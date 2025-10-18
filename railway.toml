@@ -1,4 +1,4 @@
 [build]
 builder = "dotnet"
-buildCommand = "dotnet publish HngWebApiProject/HngWebApiProject.csproj -c Release -o out"
+buildCommand = "dotnet publish HngWebApiProject/HngWebApiProject/HngWebApiProject.csproj -c Release -o out"
 startCommand = "dotnet HngWebApiProject.dll"
