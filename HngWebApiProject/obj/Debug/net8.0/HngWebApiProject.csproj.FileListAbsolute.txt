@@ -19,6 +19,7 @@ C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\HngWebApiProject.
 C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\HngWebApiProject.csproj.CoreCompileInputs.cache
 C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\HngWebApiProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\HngWebApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\HngWebApiProject.sourcelink.json
 C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Projects\HngWebApiProject\HngWebApiProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
